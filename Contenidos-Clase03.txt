@@ -216,6 +216,9 @@ Subir a staging area
 Subir a repo local	
 	git commit -m 'comentario'
 
+vincular repo local con repo remoto
+
+
 subir a repo remoto
 	git push -u origin feature/login	
 
